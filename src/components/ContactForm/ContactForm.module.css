@@ -1,0 +1,17 @@
+.form {
+  padding: 50px 100px;
+  border: 1px solid #000;
+  border-radius: 2px;
+}
+
+.label {
+  margin-bottom: 20px;
+  width: 200px;
+}
+
+.button {
+  background-color: none;
+}
+input {
+  height: 30px;
+}
